@@ -1,2 +1,3 @@
 # HandDetector-
-Hand detector python 
+
+Hand detector por motivos educativos
